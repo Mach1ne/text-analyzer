@@ -13,10 +13,9 @@
 
 ## 🔧 Пример запуска
 
-```bash
+```bash 
 python main.py -r text.txt -n 3 -o output.txt
-
+```
 
 ## 📸 Пример работы
-
 ![Пример](screenshot.png)
